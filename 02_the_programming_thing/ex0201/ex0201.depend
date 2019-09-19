@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568857236 source:/Users/shail/begC4D/02_the_programming_thing/ex0201/main.c
+	<stdio.h>
+	<stdlib.h>
+
